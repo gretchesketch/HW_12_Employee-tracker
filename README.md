@@ -29,11 +29,9 @@ This project used the following:
  * CSS
  * Javascript
  * Node.js
- * express.js
- * uuid (for unique ids assigned to different notes)
+ * mysql2
+ * inquirer
  * fs (for access to the file system)
- * nodemon (not required but a handy tool)
- * heroku
  * insomnia
 
 
