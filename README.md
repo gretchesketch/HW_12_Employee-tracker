@@ -14,11 +14,9 @@ Table of Contents
 
 
 
-    
-
  * Live URL with heroku: 
 
- * Repo URL: 
+ * Repo URL: https://github.com/gretchesketch/HW_12_Employee-tracker
 
 
 
